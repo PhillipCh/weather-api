@@ -1,0 +1,9 @@
+#Directories to ignore
+
+.venv/
+.vscode/
+old/
+
+#Files to ignore
+
+.env
